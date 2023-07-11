@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Individual_MVP_7</string>
+    <string name="fortaleza_de_contrase_a">FORTALEZA DE CONTRASEÑA</string>
+    <string name="pass">contraseña</string>
+    <string name="comprobar">comprobar</string>
+</resources>
