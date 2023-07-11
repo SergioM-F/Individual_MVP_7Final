@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements IviewPresentador 
     @Override
     public void mostrarDebil() {
         Toast.makeText(this, "DEBIL", Toast.LENGTH_SHORT).show();
+        //binding.textViewNivel.setBackgroundColor(getColor().GREEN);
 
     }
 
